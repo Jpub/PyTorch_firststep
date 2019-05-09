@@ -1,6 +1,6 @@
-# 파이토치 첫걸음(가제)
+# 파이토치 첫걸음
 
-![파이토치 첫걸음(가제)](http://image.kyobobook.co.kr/images/book/xlarge/590/x9791188621590.jpg)
+![파이토치 첫걸음](http://image.kyobobook.co.kr/images/book/xlarge/590/x9791188621590.jpg)
 
 
 **출판사** 제이펍  
